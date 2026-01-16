@@ -28,8 +28,3 @@ jobs:
       # Runs a single command using the runners shell
       - name: Run a simple command
         run: echo "Hi shoba how are you!"
-
-  
-        run: |
-          echo Add other actions to build,
-          echo test, and deploy your project.
