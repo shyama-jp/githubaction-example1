@@ -27,5 +27,5 @@ jobs:
 
       # Runs a single command using the runners shell
       - name: Run a simple command
-        run: echo "Hi shoba how are you!"
-        echo  "i have class tomorrow"
+        run: echo "Hi shoba how are you! & i have class tomorrow"
+          
